@@ -23,3 +23,4 @@ on which I work on various components.
 [Twitch]: https://www.twitch.tv/steadyspring8
 
 
+[![Steadys's github stats](https://github-readme-stats.vercel.app/api?username=steadyspring)](https://github.com/anuraghazra/github-readme-stats)
