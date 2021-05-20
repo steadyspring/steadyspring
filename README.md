@@ -24,3 +24,7 @@ on which I work on various components.
 
 
 [![Steadys's github stats](https://github-readme-stats.vercel.app/api?username=steadyspring)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steadyspring&theme=great-gatsby"> 
+</p>
