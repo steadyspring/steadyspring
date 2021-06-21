@@ -23,8 +23,10 @@ on which I work on various components.
 [Twitch]: https://www.twitch.tv/steadyspring8
 
 
-![Newtonzz github stats](https://github-readme-stats.vercel.app/api?username=steadyspring&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true&include_all_commits=true)
+![Steadys github stats](https://github-readme-stats.vercel.app/api?username=steadyspring&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true&include_all_commits=true)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steadyspring&theme=great-gatsby"> 
 </p>
+
+![Steadys coding stats](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=Steady&layout=compact&theme=dark&langs_count=5&bg_color=00000000)
