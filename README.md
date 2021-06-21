@@ -29,4 +29,4 @@ on which I work on various components.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steadyspring&theme=great-gatsby"> 
 </p>
 
-![Steadys coding stats](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=Steady&layout=compact&theme=dark&langs_count=5&bg_color=00000000)
+![Steadys coding stats](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=steadyspring&layout=compact&theme=dark&langs_count=5&bg_color=00000000)
