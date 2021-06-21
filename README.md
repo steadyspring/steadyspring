@@ -24,6 +24,7 @@ on which I work on various components.
 
 <details>
   <summary>stats</summary>
+  
 ![Steadys github stats](https://github-readme-stats.vercel.app/api?username=steadyspring&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true&include_all_commits=true)
 
 <p align="left">
