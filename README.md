@@ -24,8 +24,6 @@ on which I work on various components.
 
 <details>
   <summary>stats</summary>
-  
-![Steadys github stats](https://github-readme-stats.vercel.app/api?username=steadyspring&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true&include_all_commits=true)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steadyspring&theme=great-gatsby"> 
@@ -33,4 +31,6 @@ on which I work on various components.
 
 ![Steadys coding stats](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=steadyspring&layout=compact&theme=dark&langs_count=5&bg_color=00000000)
 
+![Steadys github stats](https://github-readme-stats.vercel.app/api?username=steadyspring&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true&include_all_commits=true)
+  
  </details>
