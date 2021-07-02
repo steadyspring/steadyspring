@@ -16,7 +16,7 @@ on which I work on various components.
 ### Links
 [<img style="margin-top: 15px; display: block;" id="imagen" src="https://icon-icons.com/icons2/2248/PNG/32/steam_icon_135152.png" class="lazy" data-original="https://cdn.icon-icons.com/icons2/2248/PNG/512/steam_icon_135152.png">][steam]
 [<img style="margin-top: 15px; display: block;" id="imagen" src="https://icon-icons.com/icons2/1381/PNG/32/gnometwitch_93827.png" class="lazy" data-original="https://cdn.icon-icons.com/icons2/1381/PNG/512/gnometwitch_93827.png">][Twitch]
-<p><a href="https://www.buymeacoffee.com/steadyspring"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="steadyspring" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/steadyspring"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="steadyspring" /></a></p><br><br><br>
 
 [passion]: https://passionrp.com/
 [steam]: https://steamcommunity.com/id/steadyspring/
