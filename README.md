@@ -26,7 +26,7 @@ on which I work on various components.
   <summary>stats</summary>
 
 ![Steadys coding stats](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=steadyspring&layout=compact&theme=dark&langs_count=5&bg_color=00000000)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=steadyspring&label=Profile%20views&color=0e75b6&style=flat" alt="steadyspring" /> </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steadyspring&theme=great-gatsby"> 
 </p>
